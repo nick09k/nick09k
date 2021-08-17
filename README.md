@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nick09k
 - 👀 I’m interested in LEARNING NEW TECHNOLOGY AND EXPLORING THEM.
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning Computer Vision
 
 
 <!---
